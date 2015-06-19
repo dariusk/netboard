@@ -1,0 +1,8 @@
+{
+  "name": "board",
+  "dependencies": {
+    "cloak": "^1.0.0",
+    "phaser": "^2.3.0",
+    "socket.io": "^1.3.5"
+  }
+}
